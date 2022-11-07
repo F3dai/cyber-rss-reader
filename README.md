@@ -1,2 +1,3 @@
-# cyber-rss-reader
-RSS feed reader cus all the other ones suck
+# Cyber Security RSS Reader - For ICS / OT related news & articles
+
+Flask based RSS reader, for work.
